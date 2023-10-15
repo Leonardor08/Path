@@ -1,0 +1,14 @@
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\bin\Debug\net8.0\Module-1.exe
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\bin\Debug\net8.0\Module-1.deps.json
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\bin\Debug\net8.0\Module-1.runtimeconfig.json
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\bin\Debug\net8.0\Module-1.dll
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\bin\Debug\net8.0\Module-1.pdb
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\obj\Debug\net8.0\Module-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\obj\Debug\net8.0\Module-1.AssemblyInfoInputs.cache
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\obj\Debug\net8.0\Module-1.AssemblyInfo.cs
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\obj\Debug\net8.0\Module-1.csproj.CoreCompileInputs.cache
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\obj\Debug\net8.0\Module-1.dll
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\obj\Debug\net8.0\refint\Module-1.dll
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\obj\Debug\net8.0\Module-1.pdb
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\obj\Debug\net8.0\Module-1.genruntimeconfig.cache
+D:\Repositorios\RoadMap\POO\Clases y Objetos\Csharp\Module-1\obj\Debug\net8.0\ref\Module-1.dll
