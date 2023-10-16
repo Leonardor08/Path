@@ -1,0 +1,15 @@
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\bin\Debug\net8.0\Deconstruct.exe
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\bin\Debug\net8.0\Deconstruct.deps.json
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\bin\Debug\net8.0\Deconstruct.runtimeconfig.json
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\bin\Debug\net8.0\Deconstruct.dll
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\bin\Debug\net8.0\Deconstruct.pdb
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\obj\Debug\net8.0\Deconstruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\obj\Debug\net8.0\Deconstruct.AssemblyInfoInputs.cache
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\obj\Debug\net8.0\Deconstruct.AssemblyInfo.cs
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\obj\Debug\net8.0\Deconstruct.csproj.CoreCompileInputs.cache
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\obj\Debug\net8.0\Deconstruct.sourcelink.json
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\obj\Debug\net8.0\Deconstruct.dll
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\obj\Debug\net8.0\refint\Deconstruct.dll
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\obj\Debug\net8.0\Deconstruct.pdb
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\obj\Debug\net8.0\Deconstruct.genruntimeconfig.cache
+D:\Repositorios\Path\Atributos y Métodos\Csharp\Deconstruct\obj\Debug\net8.0\ref\Deconstruct.dll
