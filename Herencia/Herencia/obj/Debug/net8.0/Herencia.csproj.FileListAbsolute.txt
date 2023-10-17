@@ -1,0 +1,15 @@
+D:\Repositorios\Path\Herencia\Herencia\bin\Debug\net8.0\Herencia.exe
+D:\Repositorios\Path\Herencia\Herencia\bin\Debug\net8.0\Herencia.deps.json
+D:\Repositorios\Path\Herencia\Herencia\bin\Debug\net8.0\Herencia.runtimeconfig.json
+D:\Repositorios\Path\Herencia\Herencia\bin\Debug\net8.0\Herencia.dll
+D:\Repositorios\Path\Herencia\Herencia\bin\Debug\net8.0\Herencia.pdb
+D:\Repositorios\Path\Herencia\Herencia\obj\Debug\net8.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Path\Herencia\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfoInputs.cache
+D:\Repositorios\Path\Herencia\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfo.cs
+D:\Repositorios\Path\Herencia\Herencia\obj\Debug\net8.0\Herencia.csproj.CoreCompileInputs.cache
+D:\Repositorios\Path\Herencia\Herencia\obj\Debug\net8.0\Herencia.sourcelink.json
+D:\Repositorios\Path\Herencia\Herencia\obj\Debug\net8.0\Herencia.dll
+D:\Repositorios\Path\Herencia\Herencia\obj\Debug\net8.0\refint\Herencia.dll
+D:\Repositorios\Path\Herencia\Herencia\obj\Debug\net8.0\Herencia.pdb
+D:\Repositorios\Path\Herencia\Herencia\obj\Debug\net8.0\Herencia.genruntimeconfig.cache
+D:\Repositorios\Path\Herencia\Herencia\obj\Debug\net8.0\ref\Herencia.dll
