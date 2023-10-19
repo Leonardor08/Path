@@ -1,0 +1,15 @@
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\bin\Debug\net8.0\Polimorfismo.exe
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\bin\Debug\net8.0\Polimorfismo.deps.json
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\bin\Debug\net8.0\Polimorfismo.runtimeconfig.json
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\bin\Debug\net8.0\Polimorfismo.dll
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\bin\Debug\net8.0\Polimorfismo.pdb
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\obj\Debug\net8.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfoInputs.cache
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfo.cs
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\obj\Debug\net8.0\Polimorfismo.csproj.CoreCompileInputs.cache
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\obj\Debug\net8.0\Polimorfismo.sourcelink.json
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\obj\Debug\net8.0\Polimorfismo.dll
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\obj\Debug\net8.0\refint\Polimorfismo.dll
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\obj\Debug\net8.0\Polimorfismo.pdb
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\obj\Debug\net8.0\Polimorfismo.genruntimeconfig.cache
+D:\Repositorios\Path\Polimorfismo\Csharp\Polimorfismo\obj\Debug\net8.0\ref\Polimorfismo.dll

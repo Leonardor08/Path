@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo.csproj", "{8C0257E2-748E-445F-9EB0-3E610AF6FDD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "..\Interfaces\Interfaces.csproj", "{D336B7D6-DB6B-418F-8B5F-2A54A8778335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sobrecarga", "..\sobrecarga\sobrecarga.csproj", "{0D934372-A64D-41AB-98D3-C6D5CEA1E2E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0257E2-748E-445F-9EB0-3E610AF6FDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0257E2-748E-445F-9EB0-3E610AF6FDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0257E2-748E-445F-9EB0-3E610AF6FDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0257E2-748E-445F-9EB0-3E610AF6FDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D336B7D6-DB6B-418F-8B5F-2A54A8778335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D336B7D6-DB6B-418F-8B5F-2A54A8778335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D336B7D6-DB6B-418F-8B5F-2A54A8778335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D336B7D6-DB6B-418F-8B5F-2A54A8778335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D934372-A64D-41AB-98D3-C6D5CEA1E2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D934372-A64D-41AB-98D3-C6D5CEA1E2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D934372-A64D-41AB-98D3-C6D5CEA1E2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D934372-A64D-41AB-98D3-C6D5CEA1E2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {087BAD84-23EB-4794-873A-140F54A4418D}
+	EndGlobalSection
+EndGlobal
